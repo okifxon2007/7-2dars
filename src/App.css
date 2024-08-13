@@ -1,0 +1,13 @@
+.but button{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 50px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: 1px solid silver;
+}
+.but{
+    margin-left: 450px;
+
+}
